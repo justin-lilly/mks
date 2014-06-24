@@ -1,0 +1,86 @@
+* {
+		background-color:#BABAB4;
+		font-family:sans-serif;
+}
+
+h1 {
+		color:#65655C;
+		background-color:#DDDDDA;
+		padding-left:25px;
+}
+
+
+p {
+		color:white;
+		margin:0px;
+}
+
+p:first-child {
+		background-color: #084B8A;
+}
+
+p:nth-child(2) {
+		background-color: #045FB4;
+}
+
+p:nth-child(3) {
+		background-color: #0174DF;
+}
+
+p:nth-child(4) {
+		background-color: #0080FF;
+}
+
+p:nth-child(5) {
+		background-color: #2E9AFE;
+}
+
+p:nth-child(6) {
+		background-color: #58ACFA;
+}
+
+p:nth-child(7) {
+		background-color: #81BEF7;
+}
+
+p:nth-child(8) {
+		background-color: #A9D0F5;
+}
+
+/* Number 7 */
+p:nth-child(9) {
+		background-color: #23AB7F;
+}
+
+p:nth-child(10) {
+		background-color: #F6CEF5;
+}
+
+p:nth-child(11) {
+		background-color: #F5A9E1;
+}
+
+p:nth-child(12) {
+		background-color: #F5A9E1;
+}
+
+p:nth-child(13) {
+		background-color: #F781D8;
+}
+
+p:nth-child(14) {
+		background-color: #FA58D0;
+}
+
+p:nth-child(15) {
+		background-color: #FE2EC8;
+}
+
+p:nth-child(16) {
+		background-color: #FF00BF;
+}
+
+span {
+		font-size:30px;
+		background-color:#23AB7F;
+}
